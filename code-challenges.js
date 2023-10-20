@@ -26,10 +26,10 @@
 
 // const padres1984WorldSeriesRuns = [2, 5, 2, 2, 4]
 // const padres1998WorldSeriesRuns = [6, 3, 5, 3]
-// // Expected output: 9
+// // // Expected output: 9
 
-const combined = padres1984WorldSeriesRuns.concat(padres1998WorldSeriesRuns).length
-console.log(combined)
+// const combined = padres1984WorldSeriesRuns.concat(padres1998WorldSeriesRuns).length
+// console.log(combined)
 
 // Pseudo code:
 
@@ -39,34 +39,34 @@ console.log(combined)
 
 // --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
 
-var currentCohort = ["Golf 2023"]
+// var currentCohort = ["Golf 2023"]
 
-var stringToArray = currentCohort.split()
-console.log(stringToArray)
+// var stringToArray = currentCohort.split()
+// console.log(stringToArray)
 
-var stringToArray = currentCohort.split("")
-console.log(stringToArray)
+// var stringToArray = currentCohort.split("")
+// console.log(stringToArray)
 
-stringToArray.reverse()
-console.log(stringToArray)
+// stringToArray.reverse()
+// console.log(stringToArray)
 
 // Expected output: "3202 floG"
 
-// Pseudo code:
+// // Pseudo code:
 
-// Reverse in javascript cant be applied to a string, but it can be applied to an array
+// // Reverse in javascript cant be applied to a string, but it can be applied to an array
 
-// - Var currentCohort selects the variable im selecting witch is Gold 2023
+// // - Var currentCohort selects the variable im selecting witch is Gold 2023
 
-// - i tried to convert the string into an area using the split method.
+// // - i tried to convert the string into an area using the split method.
 
-// - i then tried to split up the string into every single character being on its own
+// // - i then tried to split up the string into every single character being on its own
 
-// - I then tried to reverse the array
+// // - I then tried to reverse the array
 
-// - i could not get it to Worker, it kept telling me .split was not a function. 
+// // - i could not get it to Worker, it kept telling me .split was not a function. 
 
-// --------------------3) Create the code that will log only the odd numbers from the array using the test variable provided below.
+// // --------------------3) Create the code that will log only the odd numbers from the array using the test variable provided below.
 
 const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 // Expected output: 13 5 -5 27
@@ -78,9 +78,9 @@ for (const number of stockExchange) {
   }
 
 
-// Pseudo code:
+// // Pseudo code:
 
-// - we create a loop function 
-// - the for function is looking through every number that we have written in the stockExchange Array
-// - the if function checks to see if its an ODD number. We do this by seeing if the number divided (%) by 2 is not equal to 0.
-// the console.log sends a line to us if the statement is true in the above line. if it is we get the ODD: (Numbeer)
+// // - we create a loop function 
+// // - the for function is looking through every number that we have written in the stockExchange Array
+// // - the if function checks to see if its an ODD number. We do this by seeing if the number divided (%) by 2 is not equal to 0.
+// // the console.log sends a line to us if the statement is true in the above line. if it is we get the ODD: (Numbeer)
