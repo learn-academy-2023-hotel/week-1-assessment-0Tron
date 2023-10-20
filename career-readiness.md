@@ -5,13 +5,20 @@ The LEARN program focuses on readying our students for a career in technology. T
 LinkedIn is the world's largest online professional networking community. An active presence on LinkedIn allows you to make professional connections, look for employment opportunities, connect with others who share your interests, and learn more about the tech industry.
 
 - Submit your "about me" statement:
-- Submit the link to your LinkedIn profile with a custom shortened url:
+
+Hi, I’m Oscar —  I’m a full stack developer with a Military and Electrical background.
+After spending several years working as an Electrician, I decided to turn my focus towards tech. I have a variety of skills witch include, problem- solving, analyzing data, and time management. i’m always eager to learn, continuously grow and step out of my comfort zone. I have the ability to work independently, as well as collaborate as part of a team to run a successful project.
+
+- Submit the link to your LinkedIn profile with a custom shortened 
+
+url:https://www.linkedin.com/in/oscar-troncoso/
 
 Check the boxes below to certify that your LinkedIn contains:
 
-- [ ] professional profile picture (must be your actual face)
-- [ ] a headline that contains a reference to your career in web development
-- [ ] your last job listed in the experience section
-- [ ] your new educational experience at LEARN
-- [ ] at least ten professional connections
-- [ ] a post about your career transition
+- [X] professional profile picture (must be your actual face)
+- [X] a headline that contains a reference to your career in web development
+- [X] your last job listed in the experience section
+- [X] your new educational experience at LEARN
+- [X] at least ten professional connections
+- [X] a post about your career transition
+
